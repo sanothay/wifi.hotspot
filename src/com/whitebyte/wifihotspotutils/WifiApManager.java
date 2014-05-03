@@ -60,7 +60,7 @@ public class WifiApManager {
 			return false;
 		}
 	}
-
+	
 	/**
 	 * Gets the Wi-Fi enabled state.
 	 * @return {@link WIFI_AP_STATE}

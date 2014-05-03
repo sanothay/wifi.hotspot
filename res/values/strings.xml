@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="hello">Hello World, Main!</string>
     <string name="app_name">Get Wifi Hotspot Clients</string>
+    <string name="lbl_hotspot">Hot Spot</string>
+    <string name="txt_hotspot_desc">Connect to the internet anywhere anytime with the unlimited 3G access.
+        \nThe Fingi phone can also be used as a Wi-Fi hot spot to connect any Wi-Fi devices.
+        \nClick on the button below and then connect to the SSID with password displayed below (takes about 10 seconds to activate).
+        \nTurn off hot spot when not in use as it consumes additional power.</string>
+    <string name="lbl_hotspot_on">Turn Off Hotspot</string>
+    <string name="lbl_hotspot_off">Turn On Hotspot</string>
+    <string name="lbl_hotspot_name">"Hotspot: FINGI"</string>
+    <string name="lbl_hotspot_key">"Key: "</string>
+
 </resources>
